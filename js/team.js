@@ -75,7 +75,7 @@ var team = [
     Department: "Electronics Department",
   },
   {
-    img: "images/team/Shehin.JPG",
+    img: "images/team/Shehin.jpg",
     Name: "Muhammed Shehin",
     Position: "Media Team",
     Department: "Electrical Department",
