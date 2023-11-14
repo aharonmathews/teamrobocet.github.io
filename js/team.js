@@ -104,7 +104,7 @@ var team = [
     Department: "",
   },
   {
-    img: "images/team/Anjananew.png",
+    img: "images/team/Anjana.png",
     Name: "Anjana Vijayakumar",
     Position: "Publicity Team",
     Department: "",
