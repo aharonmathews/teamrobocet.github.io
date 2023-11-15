@@ -1,1 +1,1 @@
-RoboCetWeb 2022-2023
+RoboCetWeb 2023-2024
